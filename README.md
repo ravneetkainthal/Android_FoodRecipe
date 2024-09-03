@@ -4,7 +4,7 @@ This Food Recipe Android App is a user-friendly mobile application designed to h
 the app provides a rich and interactive experience for cooking enthusiasts, allowing them to explore a vast collection of recipes from various cuisines.
 
 
-=============
+
 API Used:  
 ==============
 
@@ -15,7 +15,6 @@ The Spoonacular API provides access to a vast collection of recipes and food-rel
 The API offers endpoints to search for recipes, get recipe details, find similar recipes, and much more. It is an excellent resource for developers building applications related to food and nutrition.
 
 
-=============
 Recipe Cards
 =============
 
@@ -23,7 +22,6 @@ Recipe Cards
 
 
 
-=============
 Recipe Details
 =============
 
