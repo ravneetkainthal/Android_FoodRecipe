@@ -1,4 +1,3 @@
-============
 Food Recipe Android App
 ============
 This Food Recipe Android App is a user-friendly mobile application designed to help users discover, search, and save their favorite recipes. Built using modern Android development practices, 
